@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Mario</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Hi, my name is Mario.
+        \n\n
+        I am a programmer, I have classified to ICPC Mexico Finals and I have won coding Cup TecNM.
+        \n\n
+        I can code in several languages like C, C++, Java, C#, Phyton, Javascript, PHP, Kotlin. And I know
+        other technologies like MYSQL, HTML, CSS, REACT, etc.
+        \n\n
+        My favorite subject is Networks and DataBases subjects.
+
+    </string>
+</resources>
